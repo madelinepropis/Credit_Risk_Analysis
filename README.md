@@ -15,12 +15,16 @@ The analysis includes six supervised machine learning models and evaluates each 
 * High Risk Recall: 0.73
 * Low Risk Recall: 0.58
 
+![image](https://user-images.githubusercontent.com/109561408/203647033-d9668e9a-ac5a-494d-80c8-2fb4d45bbdfd.png)
+
 ### SMOTE Oversampling
 * Balanced Accuracy Score: 0.66
 * High Risk Precision: 0.1
 * Low Risk Precision: 1
 * High Risk Recall: 0.63
 * Low Risk Recall: 0.69
+
+![image](https://user-images.githubusercontent.com/109561408/203647088-2b84e9ea-60df-44b4-abd0-af83a2295b7a.png)
 
 ### Undersampling
 * Balanced Accuracy Score: 0.54
@@ -29,12 +33,16 @@ The analysis includes six supervised machine learning models and evaluates each 
 * High Risk Recall: 0.69
 * Low Risk Recall: 0.40
 
+![image](https://user-images.githubusercontent.com/109561408/203647150-0460b5e9-47a4-4146-a094-655c08f720c1.png)
+
 ### Combination Sampling
 * Balanced Accuracy Score: 0.64
 * High Risk Precision: 0.1
 * Low Risk Precision: 1
 * High Risk Recall: 0.70
 * Low Risk Recall: 0.58
+
+![image](https://user-images.githubusercontent.com/109561408/203647200-4234262d-ce2b-4766-a318-9da4edd96de8.png)
 
 ### Balanced Random Forest Classifier
 * Balanced Accuracy Score: 0.79
@@ -43,12 +51,16 @@ The analysis includes six supervised machine learning models and evaluates each 
 * High Risk Recall: 0.70
 * Low Risk Recall: 0.87
 
+![image](https://user-images.githubusercontent.com/109561408/203646929-5302ee8f-d6f2-4c6a-9fea-6753a0ddb9be.png)
+
 ### Easy Ensemble AdaBoost Classifier
 * Balanced Accuracy Score: 0.93
 * High Risk Precision: 0.9
 * Low Risk Precision: 1
 * High Risk Recall: 0.92
 * Low Risk Recall: 0.94
+
+![image](https://user-images.githubusercontent.com/109561408/203646978-737becf3-a3c2-412c-9bca-b0dfbffbf4fa.png)
 
 ## Summary
 
