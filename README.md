@@ -23,11 +23,11 @@ The analysis includes six supervised machine learning models and evaluates each 
 * Low Risk Recall: 0.69
 
 ### Undersampling
-*Balanced Accuracy Score: 0.54
-*High Risk Precision: 0.1
-*Low Risk Precision: 1
-*High Risk Recall: 0.69
-*Low Risk Recall: 0.40
+* Balanced Accuracy Score: 0.54
+* High Risk Precision: 0.1
+* Low Risk Precision: 1
+* High Risk Recall: 0.69
+* Low Risk Recall: 0.40
 
 ### Combination Sampling
 * Balanced Accuracy Score: 0.64
