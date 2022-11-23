@@ -9,11 +9,11 @@ The analysis includes six supervised machine learning models and evaluates each 
 ## Results
 
 ### Naive Random Oversampling
-*Balanced Accuracy Score: 0.65
-*High Risk Precision: 0.1
-*Low Risk Precision: 1
-*High Risk Recall: 0.73
-*Low Risk Recall: 0.58
+**Balanced Accuracy Score: 0.65
+**High Risk Precision: 0.1
+**Low Risk Precision: 1
+**High Risk Recall: 0.73
+**Low Risk Recall: 0.58
 
 ### SMOTE Oversampling
 *Balanced Accuracy Score: 0.66
