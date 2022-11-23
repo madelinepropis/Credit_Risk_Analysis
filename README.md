@@ -9,18 +9,18 @@ The analysis includes six supervised machine learning models and evaluates each 
 ## Results
 
 ### Naive Random Oversampling
-**Balanced Accuracy Score: 0.65
-**High Risk Precision: 0.1
-**Low Risk Precision: 1
-**High Risk Recall: 0.73
-**Low Risk Recall: 0.58
+* Balanced Accuracy Score: 0.65
+* High Risk Precision: 0.1
+* Low Risk Precision: 1
+* High Risk Recall: 0.73
+* Low Risk Recall: 0.58
 
 ### SMOTE Oversampling
-*Balanced Accuracy Score: 0.66
-*High Risk Precision: 0.1
-*Low Risk Precision: 1
-*High Risk Recall: 0.63
-*Low Risk Recall: 0.69
+* Balanced Accuracy Score: 0.66
+* High Risk Precision: 0.1
+* Low Risk Precision: 1
+* High Risk Recall: 0.63
+* Low Risk Recall: 0.69
 
 ### Undersampling
 *Balanced Accuracy Score: 0.54
@@ -30,25 +30,25 @@ The analysis includes six supervised machine learning models and evaluates each 
 *Low Risk Recall: 0.40
 
 ### Combination Sampling
-*Balanced Accuracy Score: 0.64
-*High Risk Precision: 0.1
-*Low Risk Precision: 1
-*High Risk Recall: 0.70
-*Low Risk Recall: 0.58
+* Balanced Accuracy Score: 0.64
+* High Risk Precision: 0.1
+* Low Risk Precision: 1
+* High Risk Recall: 0.70
+* Low Risk Recall: 0.58
 
 ### Balanced Random Forest Classifier
-*Balanced Accuracy Score: 0.79
-*High Risk Precision: 0.3
-*Low Risk Precision: 1
-*High Risk Recall: 0.70
-*Low Risk Recall: 0.87
+* Balanced Accuracy Score: 0.79
+* High Risk Precision: 0.3
+* Low Risk Precision: 1
+* High Risk Recall: 0.70
+* Low Risk Recall: 0.87
 
 ### Easy Ensemble AdaBoost Classifier
-*Balanced Accuracy Score: 0.93
-*High Risk Precision: 0.9
-*Low Risk Precision: 1
-*High Risk Recall: 0.92
-*Low Risk Recall: 0.94
+* Balanced Accuracy Score: 0.93
+* High Risk Precision: 0.9
+* Low Risk Precision: 1
+* High Risk Recall: 0.92
+* Low Risk Recall: 0.94
 
 ## Summary
 
